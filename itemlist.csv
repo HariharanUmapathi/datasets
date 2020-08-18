@@ -1,0 +1,178 @@
+itemcode,name ,rate,category ,quantity
+1,Vanilla,30,ICE CREAMS,Baby
+2,Vanilla Chikees,40,ICE CREAMS,Baby
+3,Chikoo (Sapota),40,ICE CREAMS,Baby
+4,Kiwi,40,ICE CREAMS,Baby
+5,Litchi,40,ICE CREAMS,Baby
+6,Choco Cookies,45,ICE CREAMS,Baby
+7,Choco Almond,45,ICE CREAMS,Baby
+8,Black Current,40,ICE CREAMS,Baby
+9,Butter Scotch,40,ICE CREAMS,Baby
+10,American Nuts,45,ICE CREAMS,Baby
+11,Arabian Delight,45,ICE CREAMS,Baby
+12,Strawberry,40,ICE CREAMS,Baby
+13,Mango,40,ICE CREAMS,Baby
+14,Pista ,40,ICE CREAMS,Baby
+15,Real Rosepetals,40,ICE CREAMS,Baby
+16,Pineapple,40,ICE CREAMS,Baby
+17,Water Melon,40,ICE CREAMS,Baby
+18,Mr.Orange,40,ICE CREAMS,Baby
+19,Chocolate,40,ICE CREAMS,Baby
+20,Chocolate Chikees,45,ICE CREAMS,Baby
+21,Coffee Real,40,ICE CREAMS,Baby
+22,Green Apple,40,ICE CREAMS,Baby
+23,Kesar Badam,45,ICE CREAMS,Baby
+24,Kesar Pista,45,ICE CREAMS,Baby
+25,Dry Fruits,45,ICE CREAMS,Baby
+26,Two in one,80,ICE CREAMS,-
+27,Three in one,120,ICE CREAMS,-
+28,Vanilla,60,ICE CREAMS,Regular
+29,Vanilla Chikees,80,ICE CREAMS,Regular
+30,Chikoo (Sapota),80,ICE CREAMS,Regular
+31,Kiwi,80,ICE CREAMS,Regular
+32,Litchi,80,ICE CREAMS,Regular
+33,Choco Cookies,80,ICE CREAMS,Regular
+34,Choco Almond,80,ICE CREAMS,Regular
+35,Black Current,80,ICE CREAMS,Regular
+36,Butter Scotch,80,ICE CREAMS,Regular
+37,American Nuts,80,ICE CREAMS,Regular
+38,Arabian Delight,80,ICE CREAMS,Regular
+39,Strawberry,80,ICE CREAMS,Regular
+40,Mango,80,ICE CREAMS,Regular
+41,Pista ,80,ICE CREAMS,Regular
+42,Real Rosepetals,80,ICE CREAMS,Regular
+43,Pineapple,80,ICE CREAMS,Regular
+44,Water Melon,80,ICE CREAMS,Regular
+45,Mr.Orange,80,ICE CREAMS,Regular
+46,Chocolate,80,ICE CREAMS,Regular
+47,Chocolate Chikees,80,ICE CREAMS,Regular
+48,Coffee Real,80,ICE CREAMS,Regular
+49,Green Apple,80,ICE CREAMS,Regular
+50,Kesar Badam,80,ICE CREAMS,Regular
+51,Kesar Pista,80,ICE CREAMS,Regular
+52,Dry Fruits,80,ICE CREAMS,Regular
+53,Vanilla,110,ICE CREAMS,500ml
+54,Vanilla Chikees,140,ICE CREAMS,500ml
+55,Chikoo (Sapota),140,ICE CREAMS,500ml
+56,Kiwi,140,ICE CREAMS,500ml
+57,Litchi,140,ICE CREAMS,500ml
+58,Choco Cookies,140,ICE CREAMS,500ml
+59,Choco Almond,140,ICE CREAMS,500ml
+60,Black Current,140,ICE CREAMS,500ml
+61,Butter Scotch,140,ICE CREAMS,500ml
+62,American Nuts,140,ICE CREAMS,500ml
+63,Arabian Delight,140,ICE CREAMS,500ml
+64,Strawberry,140,ICE CREAMS,500ml
+65,Mango,140,ICE CREAMS,500ml
+66,Pista ,140,ICE CREAMS,500ml
+67,Real Rosepetals,140,ICE CREAMS,500ml
+68,Pineapple,140,ICE CREAMS,500ml
+69,Water Melon,140,ICE CREAMS,500ml
+70,Mr.Orange,140,ICE CREAMS,500ml
+71,Chocolate,140,ICE CREAMS,500ml
+72,Chocolate Chikees,140,ICE CREAMS,500ml
+73,Coffee Real,140,ICE CREAMS,500ml
+74,Green Apple,140,ICE CREAMS,500ml
+75,Kesar Badam,140,ICE CREAMS,500ml
+76,Kesar Pista,140,ICE CREAMS,500ml
+77,Dry Fruits,140,ICE CREAMS,500ml
+78,Cone,40,ICE CREAMS,-
+79,Vannila Royal,170,ROYAL FALOODA,-
+80,Mango Royal,180,ROYAL FALOODA,-
+81,Strawberry Royal,180,ROYAL FALOODA,-
+82,Chocolate Royal,180,ROYAL FALOODA,-
+83,Coffee Royal,180,ROYAL FALOODA,-
+84,Butter Scotch Royal,180,ROYAL FALOODA,-
+85,Kesar Badam Royal,180,ROYAL FALOODA,-
+86,Kesar Pista Royal,180,ROYAL FALOODA,-
+87,Rose Petal Royal,180,ROYAL FALOODA,-
+88,Black Current Royal,180,ROYAL FALOODA,-
+89,Temptation,200,DELIGHT ,-
+90,Real Fantacy,200,DELIGHT ,-
+91,Amazing Treat,200,DELIGHT ,-
+92,Fantastic Five,200,DELIGHT ,-
+93,Mamboo,120,COLOR SUNDEES,-
+94,Pink Petals,120,COLOR SUNDEES,-
+95,Wonder Thunder,120,COLOR SUNDEES,-
+96,Coco Dip,120,COLOR SUNDEES,-
+97,Black Jack,120,COLOR SUNDEES,-
+98,Coconut Rainbow,100,VANNILA SUNDEES,-
+99,Jelly,100,VANNILA SUNDEES,-
+100,Choco Nuts,100,VANNILA SUNDEES,-
+101,Nuts Ice Cream,100,VANNILA SUNDEES,-
+102,Honey Vannila,100,VANNILA SUNDEES,-
+103,Choco Vanilla,100,VANNILA SUNDEES,-
+104,Orange Funda,100,VANNILA SUNDEES,-
+105,Mano Tango,100,VANNILA SUNDEES,-
+106,Pineapple Dip,100,VANNILA SUNDEES,-
+107,Green Apple,100,VANNILA SUNDEES,-
+108,Black Dip,100,VANNILA SUNDEES,-
+109,Nutty Crunch,120,VANNILA SUNDEES,-
+110,Crunchy Munchy,130,VANNILA SUNDEES,-
+111,Lemon Juice,25,FRESH JUICE,-
+112,Lemon Ginger,25,FRESH JUICE,-
+113,Lemon Mint,25,FRESH JUICE,-
+114,Sapota,40,FRESH JUICE,-
+115,Grape ,40,FRESH JUICE,-
+116,Orange,40,FRESH JUICE,-
+117,Mango ,40,FRESH JUICE,-
+118,Papaya,40,FRESH JUICE,-
+119,Pomegranate,50,FRESH JUICE,-
+120,Apple,60,FRESH JUICE,-
+121,Pineapple,45,FRESH JUICE,-
+122,Mosambi,50,FRESH JUICE,-
+123,Dates,40,FRESH JUICE,-
+124,Amla,35,FRESH JUICE,-
+125,Musk Melon,35,FRESH JUICE,-
+126,Water Melon,35,FRESH JUICE,-
+127,Badam Gheer,30,COOL DRINKS,-
+128,Rose Milk,25,COOL DRINKS,-
+129,Lassi,30,COOL DRINKS,-
+130,Nannari Sarbath,25,COOL DRINKS,-
+131,Milk Sarbath,30,COOL DRINKS,-
+132,Lemon Soda,30,COOL DRINKS,-
+133,Plain Fruit Salad,70,FRUIT SALAD,-
+134,Vannila With Fruit Salad,100,FRUIT SALAD,-
+135,Fruit Salad with Any Flavour,110,FRUIT SALAD,-
+136,2 in 1 with Fruit Salad,110,FRUIT SALAD,-
+137,3 in 1 with Fruit Salad,140,FRUIT SALAD,-
+138,Honey Vannila with Fruit Salad,100,FRUIT SALAD,-
+139,Vannila With Fruit Salad & Nuts,140,FRUIT SALAD,-
+140,Rose Milk with Ice Cream,60,OTHERS,-
+141,Badam Gheer with Ice Cream,60,OTHERS,-
+142,Apple Juice with Ice Cream,80,OTHERS,-
+143,Pineapple juice with Ice Cream,80,OTHERS,-
+144,Grape Juice with Ice Cream,80,OTHERS,-
+145,Dates Juice with Ice Cream,80,OTHERS,-
+146,Pomogranate with Ice Cream,80,OTHERS,-
+147,Veg Pizza,120,PIZZA,-
+148,Panneer Pizza,130,PIZZA,-
+149,Mushroom Pizza,130,PIZZA,-
+150,Spicy Panneer Pizza,140,PIZZA,-
+151,Spicy Mushroom Pizza,140,PIZZA,-
+152,Double Cheese Pizza,140,PIZZA,-
+153,Veg Cheese Burgar,80,BURGAR,-
+154,Double Cheese Burgar,90,BURGAR,-
+155,Spicy Cheese Burgar,80,BURGAR,-
+156,Green Chilli Burgar,80,BURGAR,-
+157,Veg Sandwich,50,SANDWICH,-
+158,Spicy Panneer Sandwich,60,SANDWICH,-
+159,Spicy Mushroom Sandwich,65,SANDWICH,-
+160,Double Cheese Sandwich,65,SANDWICH,-
+161,Veg Cheese Sandwich,60,SANDWICH,-
+162,Veg Fried Rice,80,FIRED RICE,-
+163,Gobi Rice,90,FIRED RICE,-
+164,Mushroom Rice ,100,FIRED RICE,-
+165,Panneer Rice,110,FIRED RICE,-
+166,Sechwan Rice,110,FIRED RICE,-
+167,Veg Noodles ,80,NOODLES,-
+168,Gobi Noodles,90,NOODLES,-
+169,Mushroom Noodles,100,NOODLES,-
+170,Panneer Noodles,110,NOODLES,-
+171,Sechwan Noodles,110,NOODLES,-
+172,Gobi 65,90,65,-
+173,Mushroom 65,90,65,-
+174,Panneer 65,90,65,-
+175,Gobi Manchurian,90,MANCHURIAN,-
+176,Mushroom Manchurian,90,MANCHURIAN,-
+177,Panneer Manchurian,90,MANCHURIAN,-
