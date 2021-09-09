@@ -1,5 +1,5 @@
 #  datasets
 
-[x] Restaurent Items List
-[x] Users List (JSON)
+- Restaurent Items List
+- Users List (JSON)
 
